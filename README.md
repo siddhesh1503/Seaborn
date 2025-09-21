@@ -18,12 +18,15 @@ The project aims to demonstrate various Seaborn functionalities like:
    ```bash
    git clone https://github.com/siddhesh1503/Seaborn.git
 2. Navigate into project folder
+   ```bash
    cd Seaborn
 
-3. (Optional but recommended) Create a virtual environment:
+4. (Optional but recommended) Create a virtual environment:
+   ```bash
    python -m venv venv
 
 # Directory Structure
+```bash
 Seaborn/
 ├── notebooks/       ← Jupyter notebooks demonstrating different visualization examples
 ├── data/            ← Sample datasets used
